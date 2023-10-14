@@ -8,7 +8,7 @@ Quick summary: I am studying math, programming with Python and doing practical c
 
 ## Table of Contents
 1. [Github](GitHub/)
-2. Mathematics for ML
+2. [Mathematics for ML](Math_for_ML/)
 3. Python & Python packages
 4. [ML basics](Machine_Learning_Basics/)
 5. Kaggle & Projects

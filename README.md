@@ -7,7 +7,7 @@ Khan Academy and ChatGPT are really helpful with repeating and teaching the fund
 Quick summary: I am studying math, programming with Python and doing practical courses and projects to get proficient in machine learning.
 
 ## Table of Contents
-1. [Github](Github/)
+1. [Github](GitHub/)
 2. Mathematics for ML
 3. Python & Python packages
 4. [ML basics](Machine_Learning_Basics/)

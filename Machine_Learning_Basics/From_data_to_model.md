@@ -25,5 +25,6 @@ Finally, the trained and tested model is deployed in a production environment wh
 After deployment, the model is monitored and maintained to ensure it continues to make accurate predictions and meets changing requirements.
 
 In addition to these steps, it's important to regularly review and optimize to ensure the model makes accurate predictions and operates efficiently. This may also include the use of cross-validation, hyperparameter tuning, and other advanced techniques.
+
 **Data Pipeline:** 
 Create a data pipeline that combines preprocessing steps like feature scaling, feature engineering, and model selection into a single step. This helps make the code more organized and maintainable. Using a pipeline allows for seamless automation and organization of these steps, improving code reusability and efficiency in model development. This is particularly important in complex projects where multiple data processing and modeling steps are required.

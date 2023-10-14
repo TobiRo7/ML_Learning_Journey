@@ -11,5 +11,5 @@ Quick summary: I am studying math, programming with Python and doing practical c
 2. [Mathematics for ML](Math_for_ML/)
 3. Python & Python packages
 4. [ML basics](Machine_Learning_Basics/)
-5. Kaggle & Projects
+5. [Kaggle & Projects](Kaggle_&_Projects/)
 

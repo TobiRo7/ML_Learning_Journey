@@ -13,3 +13,4 @@ Quick summary: I am studying math, programming with Python and doing practical c
 4. [ML basics](Machine_Learning_Basics/)
 5. [Kaggle & Projects](Kaggle_&_Projects/)
 
+![Visualization of the machine learning journey](./Machine_Learning_Basics/Workflow_for_learning_ML.png)
